@@ -6,7 +6,7 @@ Myanmar subtitled movie app only front-end written in [React Native](https://rea
 
 ## Installation
 
-Download [yarn](https://yarnpkg.com) to install required dependencies. And install [Android Studio](https://developer.android.com/studio). Without android studio can be read [here](https://medium.com/swlh/react-native-complete-setup-without-an-android-studio-xcode-97b6f25624a0). Read more at [official website](https://reactnative.dev/docs/environment-setup).
+Download [yarn](https://yarnpkg.com) to install required dependencies. And install [Android Studio](https://developer.android.com/studio); without android studio can be read [here](https://medium.com/swlh/react-native-complete-setup-without-an-android-studio-xcode-97b6f25624a0). Read more about env setup at [official website](https://reactnative.dev/docs/environment-setup).
 ```bash
 git clone https://github.com/4cc3ssX/N1Channel
 ```
